@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3065" started-at="2018-11-15T22:23:39Z" finished-at="2018-11-15T22:23:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3065" started-at="2018-11-15T22:23:39Z" finished-at="2018-11-15T22:23:42Z">
+      <class name="com.qa.rest.tests.GetCallBDD">
+        <test-method status="PASS" signature="test_numberOfCircuitsFor2017_Season()[pri:0, instance:com.qa.rest.tests.GetCallBDD@4883b407]" name="test_numberOfCircuitsFor2017_Season" duration-ms="3030" started-at="2018-11-15T22:23:39Z" finished-at="2018-11-15T22:23:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_numberOfCircuitsFor2017_Season -->
+      </class> <!-- com.qa.rest.tests.GetCallBDD -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
